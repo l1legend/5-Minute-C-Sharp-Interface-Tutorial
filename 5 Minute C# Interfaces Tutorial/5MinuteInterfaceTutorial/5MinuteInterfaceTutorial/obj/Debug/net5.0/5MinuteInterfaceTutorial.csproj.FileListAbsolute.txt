@@ -1,0 +1,16 @@
+C:\Users\mmin\Desktop\5 Minute C# Interfaces Tutorial\5MinuteInterfaceTutorial\5MinuteInterfaceTutorial\bin\Debug\net5.0\5MinuteInterfaceTutorial.exe
+C:\Users\mmin\Desktop\5 Minute C# Interfaces Tutorial\5MinuteInterfaceTutorial\5MinuteInterfaceTutorial\bin\Debug\net5.0\5MinuteInterfaceTutorial.deps.json
+C:\Users\mmin\Desktop\5 Minute C# Interfaces Tutorial\5MinuteInterfaceTutorial\5MinuteInterfaceTutorial\bin\Debug\net5.0\5MinuteInterfaceTutorial.runtimeconfig.json
+C:\Users\mmin\Desktop\5 Minute C# Interfaces Tutorial\5MinuteInterfaceTutorial\5MinuteInterfaceTutorial\bin\Debug\net5.0\5MinuteInterfaceTutorial.runtimeconfig.dev.json
+C:\Users\mmin\Desktop\5 Minute C# Interfaces Tutorial\5MinuteInterfaceTutorial\5MinuteInterfaceTutorial\bin\Debug\net5.0\5MinuteInterfaceTutorial.dll
+C:\Users\mmin\Desktop\5 Minute C# Interfaces Tutorial\5MinuteInterfaceTutorial\5MinuteInterfaceTutorial\bin\Debug\net5.0\ref\5MinuteInterfaceTutorial.dll
+C:\Users\mmin\Desktop\5 Minute C# Interfaces Tutorial\5MinuteInterfaceTutorial\5MinuteInterfaceTutorial\bin\Debug\net5.0\5MinuteInterfaceTutorial.pdb
+C:\Users\mmin\Desktop\5 Minute C# Interfaces Tutorial\5MinuteInterfaceTutorial\5MinuteInterfaceTutorial\obj\Debug\net5.0\5MinuteInterfaceTutorial.csproj.AssemblyReference.cache
+C:\Users\mmin\Desktop\5 Minute C# Interfaces Tutorial\5MinuteInterfaceTutorial\5MinuteInterfaceTutorial\obj\Debug\net5.0\5MinuteInterfaceTutorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mmin\Desktop\5 Minute C# Interfaces Tutorial\5MinuteInterfaceTutorial\5MinuteInterfaceTutorial\obj\Debug\net5.0\5MinuteInterfaceTutorial.AssemblyInfoInputs.cache
+C:\Users\mmin\Desktop\5 Minute C# Interfaces Tutorial\5MinuteInterfaceTutorial\5MinuteInterfaceTutorial\obj\Debug\net5.0\5MinuteInterfaceTutorial.AssemblyInfo.cs
+C:\Users\mmin\Desktop\5 Minute C# Interfaces Tutorial\5MinuteInterfaceTutorial\5MinuteInterfaceTutorial\obj\Debug\net5.0\5MinuteInterfaceTutorial.csproj.CoreCompileInputs.cache
+C:\Users\mmin\Desktop\5 Minute C# Interfaces Tutorial\5MinuteInterfaceTutorial\5MinuteInterfaceTutorial\obj\Debug\net5.0\5MinuteInterfaceTutorial.dll
+C:\Users\mmin\Desktop\5 Minute C# Interfaces Tutorial\5MinuteInterfaceTutorial\5MinuteInterfaceTutorial\obj\Debug\net5.0\ref\5MinuteInterfaceTutorial.dll
+C:\Users\mmin\Desktop\5 Minute C# Interfaces Tutorial\5MinuteInterfaceTutorial\5MinuteInterfaceTutorial\obj\Debug\net5.0\5MinuteInterfaceTutorial.pdb
+C:\Users\mmin\Desktop\5 Minute C# Interfaces Tutorial\5MinuteInterfaceTutorial\5MinuteInterfaceTutorial\obj\Debug\net5.0\5MinuteInterfaceTutorial.genruntimeconfig.cache
